@@ -40,7 +40,7 @@ Pagina de treinamento, primeiro projeto que desenvolvi com html/css.
 
 >Primeiro faça o clone deste repositório em sua maquina.
 ```
-git clone git@github.com:Adson-Gomes-Oliveira/Pixels-Art.git
+git clone git@github.com:Adson-Gomes-Oliveira/Lessons-Learned.git
 ```
 
 >Utilize o live server no vscode para iniciar o projeto localmente ou abra o projeto html no navegador.
